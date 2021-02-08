@@ -1,1 +1,1 @@
-# HackerEarth Deep Learning Challenge: 'Tis STILL the season to be jolly
+# HackerEarth Machine Learning Challenge: Exhibit A(rt)
