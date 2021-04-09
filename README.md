@@ -51,8 +51,10 @@ The columns provided in the dataset are as follows:
 ```python
 score = 100*max(0, 1-metrics.mean_squared_log_error(actual, predicted))
 ```
+
 ## Result submission guidelines
 
-* The index is Customer Id and the target is the Cost column. 
+* The index is Customer Id and the target is the Cost column.
 * The result file must be submitted in `.csv` format only.
 * The size of this result file must be 3500 x 2.
+  
