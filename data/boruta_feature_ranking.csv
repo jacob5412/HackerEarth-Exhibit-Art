@@ -1,0 +1,143 @@
+column,rank
+Artist Reputation,1
+Customer State_ID,1
+Price Of Sculpture,1
+Base Shipping Price,1
+scheduled_month,2
+Weight,2
+scheduled_year_month_2015-04,3
+Customer State_MT,4
+Area,5
+Price per unit weight,5
+delivery_offset,7
+Height,8
+scheduled_year_month_2017-06,9
+Width,10
+Transport_Airways,11
+scheduled_year_month_2017-01,12
+Customer Information_Wealthy,13
+Material_Stone,14
+Customer Information_Working Class,14
+scheduled_year_month_2015-08,16
+Installation Included_Yes,17
+Installation Included_No,18
+Express Shipment_No,19
+Material_Marble,19
+Express Shipment_Yes,21
+scheduled_year_month_2017-07,22
+Fragile_Yes,23
+Customer State_OR,24
+Remote Location_Yes,25
+scheduled_year_month_2017-04,26
+Customer State_VA,27
+Fragile_No,28
+International_No,29
+scheduled_year_month_2017-08,30
+Transport_Waterways,31
+Customer State_NJ,32
+Remote Location_No,33
+scheduled_year_month_2017-03,34
+Customer State_MD,35
+International_Yes,35
+Transport_Roadways,37
+scheduled_year_month_2015-11,38
+Customer State_TN,39
+scheduled_year_month_2018-01,40
+scheduled_year_month_2016-10,41
+Customer State_UT,42
+scheduled_year_month_2017-11,43
+Customer State_MN,43
+scheduled_year_month_2015-12,45
+Customer State_CA,46
+Customer State_CT,47
+Customer State_OH,48
+scheduled_year_month_2015-02,49
+scheduled_year_month_2015-03,49
+Customer State_HI,51
+scheduled_year_month_2016-01,52
+scheduled_year_month_2019-05,52
+Customer State_GA,54
+scheduled_year_month_2018-09,55
+Customer State_MI,55
+Customer State_AP,57
+scheduled_year_month_2019-07,58
+Customer State_DP,59
+scheduled_year_month_2016-11,60
+Customer State_WI,60
+Customer State_DC,62
+Customer State_LA,63
+Customer State_VT,64
+Customer State_NY,65
+Customer State_NC,66
+scheduled_year_month_2018-04,67
+Customer State_AL,68
+scheduled_year_month_2018-03,69
+Customer State_IA,70
+Customer State_PA,71
+scheduled_year_month_2017-05,72
+Customer State_IN,73
+Customer State_RI,74
+Customer State_OK,74
+Customer State_WV,76
+scheduled_year_month_2015-05,77
+Customer State_WA,77
+Customer State_TX,79
+scheduled_year_month_2018-10,81
+scheduled_year_month_2016-09,81
+scheduled_year_month_2018-05,81
+scheduled_year_month_2016-06,83
+scheduled_year_month_2018-12,84
+Customer State_MA,85
+Customer State_ME,86
+scheduled_year_month_2016-05,87
+scheduled_year_month_2016-08,89
+Customer State_MO,89
+Customer State_MS,89
+scheduled_year_month_2019-06,91
+Customer State_SD,94
+Customer State_AK,94
+scheduled_year_month_2015-09,94
+scheduled_year_month_2017-12,94
+Material_Brass,94
+Customer State_IL,94
+scheduled_year_month_2017-10,99
+scheduled_year_month_2018-07,99
+Customer State_FL,99
+scheduled_year_month_2016-02,110
+scheduled_year_month_2016-03,110
+Customer State_NH,110
+scheduled_year_month_2015-07,110
+Customer State_NM,110
+scheduled_year_month_2015-01,110
+scheduled_year_month_2018-06,110
+Customer State_SC,110
+Customer State_NV,110
+Customer State_DE,110
+Customer State_CO,110
+Customer State_AR,110
+Material_Bronze,110
+scheduled_year_month_2018-02,110
+scheduled_year_month_2019-04,110
+Material_Aluminium,110
+scheduled_year_month_2018-11,110
+scheduled_year_month_2018-08,110
+Customer State_KY,110
+scheduled_year_month_2015-06,110
+Material_Wood,129
+Material_Clay,129
+Customer State_KS,129
+Customer State_ND,129
+scheduled_year_month_2015-10,129
+scheduled_year_month_2016-04,129
+scheduled_year_month_2016-07,129
+Customer State_FP,129
+scheduled_year_month_2016-12,129
+scheduled_year_month_2017-02,129
+Customer State_AZ,129
+scheduled_year_month_2017-09,129
+scheduled_year_month_2019-08,129
+scheduled_year_month_2019-03,129
+scheduled_year_month_2019-02,129
+scheduled_year_month_2019-01,129
+Customer State_NE,129
+Customer State_WY,129
